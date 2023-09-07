@@ -8,3 +8,17 @@ body
     min-height: 100%;
     position: fixed;
 }
+#nav-bar
+{
+    min-width: 10em;
+    position: sticky; 
+}
+#logo
+{
+    width: 10em;
+    margin-top:2em;
+}
+.position
+{
+    position: relative;
+}
