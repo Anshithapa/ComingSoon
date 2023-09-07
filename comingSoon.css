@@ -22,3 +22,15 @@ body
 {
     position: relative;
 }
+#site-body
+{
+    padding-top: 10em;  
+}
+.h2
+{
+    margin-left:4em;
+}
+#h1
+{
+    font-size: 4.5rem;
+}
