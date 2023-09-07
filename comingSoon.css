@@ -1,0 +1,10 @@
+body
+{
+    margin: 0px;
+}
+#my-vdo
+{
+    min-width: 100%;
+    min-height: 100%;
+    position: fixed;
+}
